@@ -1,4 +1,4 @@
-![NUTRIFITNESS](![Blue Chatbot Technology Youtube Thumbnail](https://github.com/aakash1233333/Nutrifitness-Chatbot/assets/113034272/84443b98-76a9-456c-a932-7bd85fb9ef70)
+!(![Blue Chatbot Technology Youtube Thumbnail](https://github.com/aakash1233333/Nutrifitness-Chatbot/assets/113034272/84443b98-76a9-456c-a932-7bd85fb9ef70)
 )
 
 # NUTRIFITNESS
