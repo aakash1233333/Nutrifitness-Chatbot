@@ -1,5 +1,5 @@
 ![Blue Chatbot Technology Youtube Thumbnail](https://github.com/aakash1233333/Nutrifitness-Chatbot/assets/113034272/84443b98-76a9-456c-a932-7bd85fb9ef70)
-)
+
 
 # NUTRIFITNESS
 
@@ -21,3 +21,14 @@ objectives, experience level, and present level of fitness. This information wil
 chatbot to design a customised fitness schedule for the user. Additionally, the chatbot can 
 offer users inspiration to persist with their training routines as well as advice on nutrition and 
 exercise.
+
+Tech Stak Used 🦖
+1) Python 
+2) Flask
+3) HTML
+4) CSS
+5) MICROSOFT DIALO GPT
+# WE HAVE TRY TO INTEGRATE MICROSOFT DIALO GPT A PRE TRAINED MODEL THAT CAN GENERATE RESPONSES WITH FLASK A POPULAR FRAMEWORK OF PYTHON.FOR AN FORNTEND SERVER HTML ,CSS,JAVASCRIPT HAVE BEEN USED.
+
+# IN OTHER PERIOD OF HACKATHON WE ARE THINKING TO TRAIN A MODEL USING NLP PROCESS WHICH WILL ONLY DELIVER DOUBTS RELATED TO FITNESS ONLY.
+
