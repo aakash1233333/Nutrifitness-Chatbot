@@ -1,72 +1,23 @@
-![Binaryhood](Logo/BinaryhoodLogo.png)
+![NUTRIFITNESS](![Blue Chatbot Technology Youtube Thumbnail](https://github.com/aakash1233333/Nutrifitness-Chatbot/assets/113034272/84443b98-76a9-456c-a932-7bd85fb9ef70)
+)
 
-# ChatBot
+# NUTRIFITNESS
 
-## Installation & Setup
+A chatbot that provides users with personalized 
+workout plans,exercise instructions,nutrition 
+guidance,motivation and a workout plan 
+according to your needs.
 
-[Install Python] https://www.dataquest.io/blog/installing-python-on-mac/
+Problem: Many people desire to lose weight but are unsure of 
+where to begin. They might not understand the right form for 
+certain exercises or how to design a fitness schedule that is 
+tailored to their specific requirements. They can also lack the 
+drive to maintain a fitness schedule.
 
-[Install pip] https://phoenixnap.com/kb/install-pip-mac
-
-If you have Python & pip installed then check their version in the terminal or command line tools
-
-```
-python3 --version
-```
-
-```
-pip --version
-```
-
-## Installing Flask
-
-In your terminal run the requirements.txt file using this pip
-
-```
-pip install -r requirements.txt
-```
-
-
-## Running ChatBot Application in Terminal
-
-```
-cd into your directory
-```
-
-```
-python app.py
-```
-
-
-
-## What you will create
-
-In this tutorial, I will guide you through the process of building a chatbot that can carry out conversations with users using natural language processing.
-
-To start, we will be using Microsoft DialoGPT, a pre-trained language model that can generate human-like responses to given prompts. We will be integrating DialoGPT with Flask, a popular Python web framework, to create a web application that can communicate with users via a chat interface.
-
-For the frontend of our application, we will be using HTML, CSS, and JavaScript to create a visually appealing and interactive chat interface. Additionally, we will be using jQuery to handle the HTTP requests that are made to the backend server.
-
-Throughout the tutorial, I will provide step-by-step instructions on how to set up your development environment, install the necessary dependencies, and create the required files and code for the application. I will also explain how to train and fine-tune the DialoGPT model to improve the accuracy of its responses.
-
-By the end of this tutorial, you will have a fully functional chatbot that can engage in conversations with users, and you will have gained valuable experience in using Microsoft DialoGPT, Flask, and web development technologies such as HTML, CSS, and JavaScript.
-
-# ChatBot Link
-The Chatbot is constructed using the Microsoft/DialoGPT-medium model.
-
-```
-https://huggingface.co/microsoft/DialoGPT-medium
-```
-
-# User-Html
-
-```
-var userHtml = '<div class="d-flex justify-content-end mb-4"><div class="msg_cotainer_send">' + user_input + '<span class="msg_time_send">'+ time + 
-    '</span></div><div class="img_cont_msg"><img src="https://i.ibb.co/d5b84Xw/Untitled-design.png" class="rounded-circle user_img_msg"></div></div>';
-```
-
-# Bot-HTML
-
-```
-var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + bot_response + '<span class="msg_time">' + time + '</span></div></div>';
-```
+Solution: People can overcome these obstacles and reach their fitness objectives by using a 
+chatbot that offers users personalised workout plans, exercise instructions, nutrition advice, 
+and motivation. Users can answer questions from the chatbot regarding their fitness 
+objectives, experience level, and present level of fitness. This information will be used by the 
+chatbot to design a customised fitness schedule for the user. Additionally, the chatbot can 
+offer users inspiration to persist with their training routines as well as advice on nutrition and 
+exercise.
